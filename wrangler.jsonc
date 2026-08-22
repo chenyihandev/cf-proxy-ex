@@ -1,4 +1,5 @@
 {
+  "name": "cf-proxy-ex",
   "main": "_worker.js",
   "compatibility_date": "2025-07-13"
 }
